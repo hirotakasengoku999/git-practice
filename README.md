@@ -3,3 +3,4 @@
 ローカルgitで変更
 conflict-remote上で更新(rebase コンフリクト発生)
 rebase
+stash編集
